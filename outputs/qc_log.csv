@@ -1,0 +1,8 @@
+"step","rows"
+"raw rows",23951
+"drop unlabeled mirror rows",23450
+"drop exact duplicates",22810
+"drop rows with no sampling point",22439
+"results < 0.1 ppt excluded (suspected unit error)",78
+"point-date-analyte groups collapsed",657
+"  of which mixed detect/nondetect",154

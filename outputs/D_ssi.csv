@@ -1,0 +1,1333 @@
+"point","analyte","n","rule","status","ssi_index"
+"100:TP011","HFPODA",9,"double quantification","none",NA
+"100:TP011","PFBS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"100:TP011","PFHxA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"100:TP011","PFHxS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"100:TP011","PFNA",9,"double quantification","none",NA
+"100:TP011","PFOA",9,"double quantification","none",NA
+"100:TP011","PFOS",9,"double quantification","none",NA
+"1015:CH501","HFPODA",9,"double quantification","none",NA
+"1015:CH501","PFBS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"1015:CH501","PFHxA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"1015:CH501","PFHxS",9,"double quantification","none",NA
+"1015:CH501","PFNA",9,"double quantification","none",NA
+"1015:CH501","PFOA",9,"double quantification","none",NA
+"1015:CH501","PFOS",9,"double quantification","none",NA
+"1067:CH004","HFPODA",10,"double quantification","none",NA
+"1067:CH004","PFBS",10,"double quantification","none",NA
+"1067:CH004","PFHxA",10,"double quantification","none",NA
+"1067:CH004","PFHxS",10,"double quantification","none",NA
+"1067:CH004","PFNA",10,"double quantification","none",NA
+"1067:CH004","PFOA",10,"double quantification","none",NA
+"1067:CH004","PFOS",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"1330:TP100","HFPODA",16,"double quantification","none",NA
+"1330:TP100","PFBS",16,"double quantification","none",NA
+"1330:TP100","PFHxA",16,"double quantification","none",NA
+"1330:TP100","PFHxS",16,"double quantification","none",NA
+"1330:TP100","PFNA",16,"double quantification","none",NA
+"1330:TP100","PFOA",16,"NP prediction limit (baseline max), 1-of-2","none",NA
+"1330:TP100","PFOS",16,"NP prediction limit (baseline max), 1-of-2","none",NA
+"1340:SS001","HFPODA",10,"double quantification","none",NA
+"1340:SS001","PFBS",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"1340:SS001","PFHxA",10,"double quantification","none",NA
+"1340:SS001","PFHxS",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"1340:SS001","PFNA",10,"double quantification","none",NA
+"1340:SS001","PFOA",10,"double quantification","none",NA
+"1340:SS001","PFOS",10,"double quantification","none",NA
+"1416:CH001","HFPODA",22,"double quantification","none",NA
+"1416:CH001","PFBS",22,"NP prediction limit (baseline max), 1-of-2","none",NA
+"1416:CH001","PFHxA",22,"double quantification","none",NA
+"1416:CH001","PFHxS",22,"NP prediction limit (baseline max), 1-of-2","none",NA
+"1416:CH001","PFNA",22,"NP prediction limit (baseline max), 1-of-2","SSI",18
+"1416:CH001","PFOA",22,"NP prediction limit (baseline max), 1-of-2","none",NA
+"1416:CH001","PFOS",22,"NP prediction limit (baseline max), 1-of-2","SSI",21
+"1420:TP004","HFPODA",21,"double quantification","none",NA
+"1420:TP004","PFBS",21,"NP prediction limit (baseline max), 1-of-2","none",NA
+"1420:TP004","PFHxA",21,"double quantification","none",NA
+"1420:TP004","PFHxS",21,"NP prediction limit (baseline max), 1-of-2","none",NA
+"1420:TP004","PFNA",21,"double quantification","none",NA
+"1420:TP004","PFOA",21,"NP prediction limit (baseline max), 1-of-2","none",NA
+"1420:TP004","PFOS",21,"NP prediction limit (baseline max), 1-of-2","none",NA
+"1465:TP123","HFPODA",13,"double quantification","none",NA
+"1465:TP123","PFBS",13,"double quantification","none",NA
+"1465:TP123","PFHxA",13,"double quantification","none",NA
+"1465:TP123","PFHxS",13,"double quantification","none",NA
+"1465:TP123","PFNA",13,"double quantification","none",NA
+"1465:TP123","PFOA",13,"NP prediction limit (baseline max), 1-of-2","none",NA
+"1465:TP123","PFOS",13,"double quantification","none",NA
+"1545:WL002","HFPODA",19,"double quantification","none",NA
+"1545:WL002","PFBS",19,"NP prediction limit (baseline max), 1-of-2","none",NA
+"1545:WL002","PFHxA",19,"NP prediction limit (baseline max), 1-of-2","none",NA
+"1545:WL002","PFHxS",19,"double quantification","none",NA
+"1545:WL002","PFNA",19,"double quantification","none",NA
+"1545:WL002","PFOA",19,"NP prediction limit (baseline max), 1-of-2","SSI",12
+"1545:WL002","PFOS",19,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2000206:003","HFPODA",11,"double quantification","none",NA
+"2000206:003","PFBS",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2000206:003","PFHxA",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2000206:003","PFHxS",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2000206:003","PFNA",11,"double quantification","none",NA
+"2000206:003","PFOA",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2000206:003","PFOS",11,"double quantification","none",NA
+"2000206:EP01","HFPODA",11,"double quantification","none",NA
+"2000206:EP01","PFBS",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2000206:EP01","PFHxA",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2000206:EP01","PFHxS",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2000206:EP01","PFNA",11,"double quantification","none",NA
+"2000206:EP01","PFOA",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2000206:EP01","PFOS",11,"double quantification","none",NA
+"2001945:EP01","HFPODA",15,"double quantification","none",NA
+"2001945:EP01","PFBS",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2001945:EP01","PFHxA",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2001945:EP01","PFHxS",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2001945:EP01","PFNA",15,"double quantification","pending",NA
+"2001945:EP01","PFOA",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2001945:EP01","PFOS",15,"double quantification","pending",NA
+"2003169:001","HFPODA",15,"double quantification","none",NA
+"2003169:001","PFBS",15,"double quantification","none",NA
+"2003169:001","PFHxA",15,"double quantification","none",NA
+"2003169:001","PFHxS",15,"double quantification","none",NA
+"2003169:001","PFNA",15,"double quantification","none",NA
+"2003169:001","PFOA",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2003169:001","PFOS",15,"double quantification","none",NA
+"2003169:EP01","HFPODA",13,"double quantification","none",NA
+"2003169:EP01","PFBS",13,"double quantification","none",NA
+"2003169:EP01","PFHxA",13,"double quantification","none",NA
+"2003169:EP01","PFHxS",13,"double quantification","none",NA
+"2003169:EP01","PFNA",13,"double quantification","none",NA
+"2003169:EP01","PFOA",13,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2003169:EP01","PFOS",13,"double quantification","none",NA
+"2003803:EP01","HFPODA",14,"double quantification","none",NA
+"2003803:EP01","PFBS",14,"NP prediction limit (baseline max), 1-of-2","SSI",10
+"2003803:EP01","PFHxA",14,"NP prediction limit (baseline max), 1-of-2","SSI",10
+"2003803:EP01","PFHxS",14,"double quantification","none",NA
+"2003803:EP01","PFNA",14,"double quantification","none",NA
+"2003803:EP01","PFOA",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2003803:EP01","PFOS",14,"double quantification","none",NA
+"2005203:EP01","HFPODA",10,"double quantification","none",NA
+"2005203:EP01","PFBS",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2005203:EP01","PFHxA",10,"double quantification","none",NA
+"2005203:EP01","PFHxS",10,"double quantification","none",NA
+"2005203:EP01","PFNA",10,"double quantification","none",NA
+"2005203:EP01","PFOA",10,"double quantification","none",NA
+"2005203:EP01","PFOS",10,"double quantification","none",NA
+"2005983:001","HFPODA",10,"double quantification","none",NA
+"2005983:001","PFBS",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2005983:001","PFHxA",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2005983:001","PFHxS",10,"double quantification","none",NA
+"2005983:001","PFNA",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2005983:001","PFOA",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2005983:001","PFOS",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2005983:EP01","HFPODA",15,"double quantification","none",NA
+"2005983:EP01","PFBS",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2005983:EP01","PFHxA",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2005983:EP01","PFHxS",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2005983:EP01","PFNA",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2005983:EP01","PFOA",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2005983:EP01","PFOS",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2007252:EP01","HFPODA",15,"double quantification","none",NA
+"2007252:EP01","PFBS",16,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2007252:EP01","PFHxA",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2007252:EP01","PFHxS",16,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2007252:EP01","PFNA",16,"NP prediction limit (baseline max), 1-of-2","pending",NA
+"2007252:EP01","PFOA",16,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2007252:EP01","PFOS",16,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2007452:EP01","HFPODA",14,"double quantification","none",NA
+"2007452:EP01","PFBS",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2007452:EP01","PFHxA",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2007452:EP01","PFHxS",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2007452:EP01","PFNA",14,"NP prediction limit (baseline max), 1-of-2","SSI",10
+"2007452:EP01","PFOA",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2007452:EP01","PFOS",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2007452:EP02","HFPODA",14,"double quantification","none",NA
+"2007452:EP02","PFBS",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2007452:EP02","PFHxA",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2007452:EP02","PFHxS",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2007452:EP02","PFNA",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2007452:EP02","PFOA",14,"double quantification","SSI",9
+"2007452:EP02","PFOS",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2009122:EP01","HFPODA",14,"double quantification","none",NA
+"2009122:EP01","PFBS",14,"double quantification","none",NA
+"2009122:EP01","PFHxA",14,"double quantification","none",NA
+"2009122:EP01","PFHxS",14,"double quantification","none",NA
+"2009122:EP01","PFNA",14,"double quantification","none",NA
+"2009122:EP01","PFOA",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2009122:EP01","PFOS",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2012071:EP01","HFPODA",10,"double quantification","none",NA
+"2012071:EP01","PFBS",10,"double quantification","none",NA
+"2012071:EP01","PFHxA",10,"double quantification","none",NA
+"2012071:EP01","PFHxS",10,"double quantification","none",NA
+"2012071:EP01","PFNA",10,"double quantification","none",NA
+"2012071:EP01","PFOA",10,"double quantification","none",NA
+"2012071:EP01","PFOS",10,"double quantification","none",NA
+"2012315:001","HFPODA",11,"double quantification","none",NA
+"2012315:001","PFBS",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2012315:001","PFHxA",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2012315:001","PFHxS",11,"double quantification","none",NA
+"2012315:001","PFNA",11,"double quantification","none",NA
+"2012315:001","PFOA",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2012315:001","PFOS",11,"double quantification","none",NA
+"2012315:EP01","HFPODA",15,"double quantification","none",NA
+"2012315:EP01","PFBS",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2012315:EP01","PFHxA",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2012315:EP01","PFHxS",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2012315:EP01","PFNA",15,"double quantification","none",NA
+"2012315:EP01","PFOA",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2012315:EP01","PFOS",15,"double quantification","none",NA
+"2012830:001","HFPODA",10,"double quantification","none",NA
+"2012830:001","PFBS",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2012830:001","PFHxA",10,"double quantification","none",NA
+"2012830:001","PFHxS",10,"double quantification","none",NA
+"2012830:001","PFNA",10,"double quantification","none",NA
+"2012830:001","PFOA",10,"double quantification","none",NA
+"2012830:001","PFOS",10,"double quantification","none",NA
+"2014563:001","HFPODA",9,"double quantification","none",NA
+"2014563:001","PFBS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2014563:001","PFHxA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2014563:001","PFHxS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2014563:001","PFNA",9,"double quantification","none",NA
+"2014563:001","PFOA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2014563:001","PFOS",9,"double quantification","none",NA
+"2015583:001","HFPODA",9,"double quantification","none",NA
+"2015583:001","PFBS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2015583:001","PFHxA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2015583:001","PFHxS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2015583:001","PFNA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2015583:001","PFOA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2015583:001","PFOS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2015583:EP01","HFPODA",14,"double quantification","none",NA
+"2015583:EP01","PFBS",14,"NP prediction limit (baseline max), 1-of-2","SSI",13
+"2015583:EP01","PFHxA",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2015583:EP01","PFHxS",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2015583:EP01","PFNA",14,"NP prediction limit (baseline max), 1-of-2","SSI",13
+"2015583:EP01","PFOA",14,"NP prediction limit (baseline max), 1-of-2","SSI",10
+"2015583:EP01","PFOS",14,"NP prediction limit (baseline max), 1-of-2","pending",NA
+"2015883:EP01","HFPODA",14,"double quantification","none",NA
+"2015883:EP01","PFBS",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2015883:EP01","PFHxA",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2015883:EP01","PFHxS",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2015883:EP01","PFNA",14,"double quantification","none",NA
+"2015883:EP01","PFOA",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2015883:EP01","PFOS",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2016175:001","HFPODA",11,"double quantification","none",NA
+"2016175:001","PFBS",11,"double quantification","none",NA
+"2016175:001","PFHxA",11,"double quantification","none",NA
+"2016175:001","PFHxS",11,"double quantification","none",NA
+"2016175:001","PFNA",11,"double quantification","none",NA
+"2016175:001","PFOA",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2016175:001","PFOS",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2016175:5","HFPODA",9,"double quantification","none",NA
+"2016175:5","PFBS",9,"double quantification","none",NA
+"2016175:5","PFHxA",9,"double quantification","none",NA
+"2016175:5","PFHxS",9,"double quantification","none",NA
+"2016175:5","PFNA",9,"double quantification","none",NA
+"2016175:5","PFOA",9,"NP prediction limit (baseline max), 1-of-2","pending",NA
+"2016175:5","PFOS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2016175:EP01","HFPODA",16,"double quantification","none",NA
+"2016175:EP01","PFBS",16,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2016175:EP01","PFHxA",16,"double quantification","none",NA
+"2016175:EP01","PFHxS",16,"double quantification","none",NA
+"2016175:EP01","PFNA",16,"double quantification","none",NA
+"2016175:EP01","PFOA",16,"NP prediction limit (baseline max), 1-of-2","SSI",14
+"2016175:EP01","PFOS",16,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2017839:EP01","HFPODA",16,"double quantification","none",NA
+"2017839:EP01","PFBS",16,"double quantification","none",NA
+"2017839:EP01","PFHxA",16,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2017839:EP01","PFHxS",16,"double quantification","none",NA
+"2017839:EP01","PFNA",16,"double quantification","none",NA
+"2017839:EP01","PFOA",16,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2017839:EP01","PFOS",16,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2017981:EP01","HFPODA",11,"double quantification","none",NA
+"2017981:EP01","PFBS",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2017981:EP01","PFHxA",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2017981:EP01","PFHxS",11,"double quantification","none",NA
+"2017981:EP01","PFNA",11,"double quantification","none",NA
+"2017981:EP01","PFOA",11,"double quantification","none",NA
+"2017981:EP01","PFOS",11,"double quantification","none",NA
+"2019905:EP01","HFPODA",9,"double quantification","none",NA
+"2019905:EP01","PFBS",9,"double quantification","none",NA
+"2019905:EP01","PFHxS",9,"double quantification","none",NA
+"2019905:EP01","PFNA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2019905:EP01","PFOS",9,"double quantification","none",NA
+"2020706:EP01","HFPODA",13,"double quantification","none",NA
+"2020706:EP01","PFBS",13,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2020706:EP01","PFHxA",13,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2020706:EP01","PFHxS",13,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2020706:EP01","PFNA",13,"double quantification","none",NA
+"2020706:EP01","PFOA",13,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2020706:EP01","PFOS",13,"double quantification","none",NA
+"2021128:EP01","HFPODA",13,"double quantification","none",NA
+"2021128:EP01","PFBS",13,"NP prediction limit (baseline max), 1-of-2","SSI",9
+"2021128:EP01","PFHxA",13,"double quantification","none",NA
+"2021128:EP01","PFHxS",13,"double quantification","none",NA
+"2021128:EP01","PFNA",13,"double quantification","none",NA
+"2021128:EP01","PFOA",13,"double quantification","none",NA
+"2021128:EP01","PFOS",13,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2021183:EP01","HFPODA",14,"double quantification","none",NA
+"2021183:EP01","PFBS",14,"double quantification","none",NA
+"2021183:EP01","PFHxA",14,"double quantification","none",NA
+"2021183:EP01","PFHxS",14,"double quantification","none",NA
+"2021183:EP01","PFNA",14,"double quantification","none",NA
+"2021183:EP01","PFOA",14,"double quantification","none",NA
+"2021183:EP01","PFOS",14,"double quantification","none",NA
+"2021461:EP01","HFPODA",14,"double quantification","none",NA
+"2021461:EP01","PFBS",14,"NP prediction limit (baseline max), 1-of-2","SSI",9
+"2021461:EP01","PFHxA",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2021461:EP01","PFHxS",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2021461:EP01","PFNA",14,"double quantification","none",NA
+"2021461:EP01","PFOA",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2021461:EP01","PFOS",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2023183:EP01","HFPODA",9,"double quantification","none",NA
+"2023183:EP01","PFBS",9,"double quantification","none",NA
+"2023183:EP01","PFHxA",9,"double quantification","none",NA
+"2023183:EP01","PFHxS",9,"double quantification","none",NA
+"2023183:EP01","PFNA",9,"double quantification","none",NA
+"2023183:EP01","PFOA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2023183:EP01","PFOS",9,"double quantification","none",NA
+"2025:CH001","HFPODA",9,"double quantification","none",NA
+"2025:CH001","PFBS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2025:CH001","PFHxA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2025:CH001","PFHxS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2025:CH001","PFNA",9,"double quantification","none",NA
+"2025:CH001","PFOA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2025:CH001","PFOS",9,"double quantification","none",NA
+"2025370:002","HFPODA",9,"double quantification","none",NA
+"2025370:002","PFBS",9,"NP prediction limit (baseline max), 1-of-2","pending",NA
+"2025370:002","PFHxA",9,"double quantification","none",NA
+"2025370:002","PFHxS",9,"NP prediction limit (baseline max), 1-of-2","pending",NA
+"2025370:002","PFNA",9,"double quantification","none",NA
+"2025370:002","PFOA",9,"double quantification","pending",NA
+"2025370:002","PFOS",9,"double quantification","none",NA
+"2025370:EP01","HFPODA",10,"double quantification","none",NA
+"2025370:EP01","PFBS",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2025370:EP01","PFHxA",10,"double quantification","none",NA
+"2025370:EP01","PFHxS",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2025370:EP01","PFNA",10,"double quantification","none",NA
+"2025370:EP01","PFOA",10,"double quantification","none",NA
+"2025370:EP01","PFOS",10,"double quantification","none",NA
+"2031017:001","HFPODA",11,"double quantification","none",NA
+"2031017:001","PFBS",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2031017:001","PFHxA",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2031017:001","PFHxS",11,"double quantification","none",NA
+"2031017:001","PFNA",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2031017:001","PFOA",11,"NP prediction limit (baseline max), 1-of-2","pending",NA
+"2031017:001","PFOS",11,"NP prediction limit (baseline max), 1-of-2","pending",NA
+"2031017:EP01","HFPODA",16,"double quantification","none",NA
+"2031017:EP01","PFBS",16,"NP prediction limit (baseline max), 1-of-2","SSI",12
+"2031017:EP01","PFHxA",16,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2031017:EP01","PFHxS",16,"double quantification","none",NA
+"2031017:EP01","PFNA",16,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2031017:EP01","PFOA",16,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2031017:EP01","PFOS",16,"NP prediction limit (baseline max), 1-of-2","SSI",15
+"2032659:001","HFPODA",12,"double quantification","none",NA
+"2032659:001","PFBS",12,"NP prediction limit (baseline max), 1-of-2","pending",NA
+"2032659:001","PFHxA",12,"double quantification","none",NA
+"2032659:001","PFHxS",12,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2032659:001","PFNA",12,"double quantification","none",NA
+"2032659:001","PFOA",12,"double quantification","none",NA
+"2032659:001","PFOS",12,"double quantification","none",NA
+"2032659:EP01","HFPODA",14,"double quantification","none",NA
+"2032659:EP01","PFBS",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2032659:EP01","PFHxA",14,"double quantification","none",NA
+"2032659:EP01","PFHxS",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2032659:EP01","PFNA",14,"double quantification","none",NA
+"2032659:EP01","PFOA",14,"double quantification","none",NA
+"2032659:EP01","PFOS",14,"double quantification","none",NA
+"2039070:EP01","HFPODA",12,"double quantification","none",NA
+"2039070:EP01","PFBS",12,"double quantification","none",NA
+"2039070:EP01","PFHxA",12,"double quantification","none",NA
+"2039070:EP01","PFHxS",12,"double quantification","none",NA
+"2039070:EP01","PFNA",12,"double quantification","none",NA
+"2039070:EP01","PFOA",12,"double quantification","none",NA
+"2039070:EP01","PFOS",12,"double quantification","none",NA
+"2039172:001","HFPODA",9,"double quantification","none",NA
+"2039172:001","PFBS",9,"double quantification","none",NA
+"2039172:001","PFHxA",9,"double quantification","none",NA
+"2039172:001","PFHxS",9,"double quantification","none",NA
+"2039172:001","PFNA",9,"double quantification","none",NA
+"2039172:001","PFOA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2039172:001","PFOS",9,"double quantification","none",NA
+"2039172:EP01","HFPODA",15,"double quantification","none",NA
+"2039172:EP01","PFBS",15,"double quantification","none",NA
+"2039172:EP01","PFHxA",15,"double quantification","none",NA
+"2039172:EP01","PFHxS",15,"double quantification","none",NA
+"2039172:EP01","PFNA",15,"double quantification","none",NA
+"2039172:EP01","PFOA",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2039172:EP01","PFOS",15,"double quantification","none",NA
+"2039354:EP101","HFPODA",9,"double quantification","none",NA
+"2039354:EP101","PFBS",9,"double quantification","none",NA
+"2039354:EP101","PFHxA",9,"double quantification","none",NA
+"2039354:EP101","PFHxS",9,"double quantification","none",NA
+"2039354:EP101","PFNA",9,"double quantification","none",NA
+"2039354:EP101","PFOA",9,"double quantification","none",NA
+"2039354:EP101","PFOS",9,"double quantification","none",NA
+"2041624:001","HFPODA",26,"double quantification","none",NA
+"2041624:001","PFBS",26,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2041624:001","PFHxA",26,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2041624:001","PFHxS",26,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2041624:001","PFNA",26,"double quantification","none",NA
+"2041624:001","PFOA",26,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2041624:001","PFOS",26,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2041624:EP01","HFPODA",24,"double quantification","none",NA
+"2041624:EP01","PFBS",24,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2041624:EP01","PFHxA",24,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2041624:EP01","PFHxS",24,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2041624:EP01","PFNA",24,"double quantification","none",NA
+"2041624:EP01","PFOA",24,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2041624:EP01","PFOS",24,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2044161:001","HFPODA",11,"double quantification","none",NA
+"2044161:001","PFBS",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2044161:001","PFHxA",11,"NP prediction limit (baseline max), 1-of-2","SSI",9
+"2044161:001","PFHxS",11,"NP prediction limit (baseline max), 1-of-2","SSI",9
+"2044161:001","PFNA",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2044161:001","PFOA",11,"NP prediction limit (baseline max), 1-of-2","SSI",9
+"2044161:001","PFOS",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2044161:EP01","HFPODA",15,"double quantification","none",NA
+"2044161:EP01","PFBS",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2044161:EP01","PFHxA",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2044161:EP01","PFHxS",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2044161:EP01","PFNA",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2044161:EP01","PFOA",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2044161:EP01","PFOS",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2049370:EP01","HFPODA",12,"double quantification","none",NA
+"2049370:EP01","PFBS",12,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2049370:EP01","PFHxA",12,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2049370:EP01","PFHxS",12,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2049370:EP01","PFNA",12,"double quantification","none",NA
+"2049370:EP01","PFOA",12,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2049370:EP01","PFOS",12,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2053839:EP01","HFPODA",17,"double quantification","none",NA
+"2053839:EP01","PFBS",17,"double quantification","none",NA
+"2053839:EP01","PFHxA",17,"double quantification","none",NA
+"2053839:EP01","PFHxS",17,"double quantification","none",NA
+"2053839:EP01","PFNA",17,"double quantification","none",NA
+"2053839:EP01","PFOA",17,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2053839:EP01","PFOS",17,"NP prediction limit (baseline max), 1-of-2","SSI",10
+"2055903:EP01","HFPODA",13,"double quantification","none",NA
+"2055903:EP01","PFBS",13,"double quantification","none",NA
+"2055903:EP01","PFHxA",13,"double quantification","none",NA
+"2055903:EP01","PFHxS",13,"double quantification","none",NA
+"2055903:EP01","PFNA",13,"double quantification","none",NA
+"2055903:EP01","PFOA",13,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2055903:EP01","PFOS",13,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2058680:EP01","HFPODA",11,"double quantification","none",NA
+"2058680:EP01","PFBS",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2058680:EP01","PFHxA",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2058680:EP01","PFHxS",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2058680:EP01","PFNA",11,"double quantification","none",NA
+"2058680:EP01","PFOA",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2058680:EP01","PFOS",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2087341:001","HFPODA",9,"double quantification","none",NA
+"2087341:001","PFBS",9,"double quantification","none",NA
+"2087341:001","PFHxA",9,"double quantification","none",NA
+"2087341:001","PFHxS",9,"double quantification","none",NA
+"2087341:001","PFNA",9,"double quantification","none",NA
+"2087341:001","PFOA",9,"double quantification","none",NA
+"2087341:001","PFOS",9,"double quantification","none",NA
+"2098341:EP01","HFPODA",12,"double quantification","none",NA
+"2098341:EP01","PFBS",12,"double quantification","none",NA
+"2098341:EP01","PFHxA",12,"double quantification","none",NA
+"2098341:EP01","PFHxS",12,"double quantification","none",NA
+"2098341:EP01","PFNA",12,"double quantification","none",NA
+"2098341:EP01","PFOA",12,"double quantification","none",NA
+"2098341:EP01","PFOS",12,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2099141:EP01","HFPODA",10,"double quantification","none",NA
+"2099141:EP01","PFBS",10,"double quantification","none",NA
+"2099141:EP01","PFHxA",10,"double quantification","none",NA
+"2099141:EP01","PFHxS",10,"double quantification","none",NA
+"2099141:EP01","PFNA",10,"double quantification","none",NA
+"2099141:EP01","PFOA",10,"double quantification","none",NA
+"2099141:EP01","PFOS",10,"double quantification","none",NA
+"210:WL001","HFPODA",19,"double quantification","none",NA
+"210:WL001","PFBS",19,"NP prediction limit (baseline max), 1-of-2","none",NA
+"210:WL001","PFHxA",19,"NP prediction limit (baseline max), 1-of-2","SSI",14
+"210:WL001","PFHxS",19,"NP prediction limit (baseline max), 1-of-2","SSI",9
+"210:WL001","PFNA",19,"double quantification","none",NA
+"210:WL001","PFOA",19,"NP prediction limit (baseline max), 1-of-2","SSI",13
+"210:WL001","PFOS",19,"double quantification","none",NA
+"210:WL004","HFPODA",13,"double quantification","none",NA
+"210:WL004","PFBS",13,"NP prediction limit (baseline max), 1-of-2","none",NA
+"210:WL004","PFHxA",13,"NP prediction limit (baseline max), 1-of-2","none",NA
+"210:WL004","PFHxS",13,"NP prediction limit (baseline max), 1-of-2","none",NA
+"210:WL004","PFNA",13,"double quantification","none",NA
+"210:WL004","PFOA",13,"NP prediction limit (baseline max), 1-of-2","none",NA
+"210:WL004","PFOS",13,"double quantification","none",NA
+"2102441:EP01","HFPODA",9,"double quantification","none",NA
+"2102441:EP01","PFBS",9,"double quantification","none",NA
+"2102441:EP01","PFHxA",9,"double quantification","none",NA
+"2102441:EP01","PFHxS",9,"double quantification","none",NA
+"2102441:EP01","PFNA",9,"double quantification","none",NA
+"2102441:EP01","PFOA",9,"double quantification","none",NA
+"2102441:EP01","PFOS",9,"double quantification","none",NA
+"2102841:EP01","HFPODA",11,"double quantification","none",NA
+"2102841:EP01","PFBS",11,"double quantification","none",NA
+"2102841:EP01","PFHxA",11,"double quantification","none",NA
+"2102841:EP01","PFHxS",11,"double quantification","none",NA
+"2102841:EP01","PFNA",11,"double quantification","none",NA
+"2102841:EP01","PFOA",11,"double quantification","none",NA
+"2102841:EP01","PFOS",11,"double quantification","none",NA
+"2159125:001","HFPODA",10,"double quantification","none",NA
+"2159125:001","PFBS",10,"double quantification","none",NA
+"2159125:001","PFHxA",10,"double quantification","none",NA
+"2159125:001","PFHxS",10,"double quantification","none",NA
+"2159125:001","PFNA",10,"double quantification","none",NA
+"2159125:001","PFOA",10,"double quantification","none",NA
+"2159125:001","PFOS",10,"double quantification","none",NA
+"2159125:EP01","HFPODA",10,"double quantification","none",NA
+"2159125:EP01","PFBS",10,"double quantification","none",NA
+"2159125:EP01","PFHxA",10,"double quantification","none",NA
+"2159125:EP01","PFHxS",10,"double quantification","none",NA
+"2159125:EP01","PFNA",10,"double quantification","none",NA
+"2159125:EP01","PFOA",10,"double quantification","none",NA
+"2159125:EP01","PFOS",10,"double quantification","none",NA
+"2170:TP002","HFPODA",21,"double quantification","none",NA
+"2170:TP002","PFBS",21,"double quantification","none",NA
+"2170:TP002","PFHxA",21,"double quantification","none",NA
+"2170:TP002","PFHxS",21,"double quantification","none",NA
+"2170:TP002","PFNA",21,"double quantification","none",NA
+"2170:TP002","PFOA",21,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2170:TP002","PFOS",21,"NP prediction limit (baseline max), 1-of-2","none",NA
+"220:TP001","HFPODA",66,"double quantification","none",NA
+"220:TP001","PFBS",66,"NP prediction limit (baseline max), 1-of-2","none",NA
+"220:TP001","PFHxA",66,"NP prediction limit (baseline max), 1-of-2","none",NA
+"220:TP001","PFHxS",66,"double quantification","none",NA
+"220:TP001","PFNA",66,"double quantification","none",NA
+"220:TP001","PFOA",66,"double quantification","none",NA
+"220:TP001","PFOS",66,"double quantification","none",NA
+"2270:TP001","HFPODA",17,"double quantification","none",NA
+"2270:TP001","PFBS",17,"double quantification","pending",NA
+"2270:TP001","PFHxA",17,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2270:TP001","PFHxS",17,"double quantification","pending",NA
+"2270:TP001","PFNA",17,"double quantification","none",NA
+"2270:TP001","PFOA",17,"double quantification","pending",NA
+"2270:TP001","PFOS",17,"double quantification","none",NA
+"2500:TP001","HFPODA",21,"double quantification","none",NA
+"2500:TP001","PFBS",21,"double quantification","none",NA
+"2500:TP001","PFHxA",21,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2500:TP001","PFHxS",21,"double quantification","none",NA
+"2500:TP001","PFNA",21,"double quantification","none",NA
+"2500:TP001","PFOA",21,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2500:TP001","PFOS",21,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2590:TP001","HFPODA",9,"double quantification","none",NA
+"2590:TP001","PFBS",9,"double quantification","none",NA
+"2590:TP001","PFHxA",9,"double quantification","none",NA
+"2590:TP001","PFHxS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2590:TP001","PFNA",9,"double quantification","none",NA
+"2590:TP001","PFOA",9,"double quantification","none",NA
+"2590:TP001","PFOS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"260:TP023","HFPODA",15,"double quantification","none",NA
+"260:TP023","PFBS",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"260:TP023","PFHxA",15,"double quantification","none",NA
+"260:TP023","PFHxS",15,"NP prediction limit (baseline max), 1-of-2","pending",NA
+"260:TP023","PFNA",15,"double quantification","none",NA
+"260:TP023","PFOA",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"260:TP023","PFOS",15,"double quantification","none",NA
+"2640:TP003","HFPODA",21,"double quantification","none",NA
+"2640:TP003","PFBS",21,"double quantification","none",NA
+"2640:TP003","PFHxA",21,"double quantification","none",NA
+"2640:TP003","PFHxS",21,"double quantification","none",NA
+"2640:TP003","PFNA",21,"double quantification","none",NA
+"2640:TP003","PFOA",21,"double quantification","none",NA
+"2640:TP003","PFOS",21,"NP prediction limit (baseline max), 1-of-2","SSI",9
+"2790:TP100","HFPODA",16,"double quantification","none",NA
+"2790:TP100","PFBS",16,"double quantification","none",NA
+"2790:TP100","PFHxA",16,"double quantification","none",NA
+"2790:TP100","PFHxS",16,"double quantification","none",NA
+"2790:TP100","PFNA",16,"double quantification","none",NA
+"2790:TP100","PFOA",16,"double quantification","none",NA
+"2790:TP100","PFOS",16,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2838:TP100","HFPODA",11,"double quantification","none",NA
+"2838:TP100","PFBS",11,"double quantification","none",NA
+"2838:TP100","PFHxA",11,"double quantification","none",NA
+"2838:TP100","PFHxS",11,"double quantification","none",NA
+"2838:TP100","PFNA",11,"double quantification","none",NA
+"2838:TP100","PFOA",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2838:TP100","PFOS",11,"double quantification","none",NA
+"2838:TP101","HFPODA",11,"double quantification","none",NA
+"2838:TP101","PFBS",11,"double quantification","none",NA
+"2838:TP101","PFHxA",11,"double quantification","none",NA
+"2838:TP101","PFHxS",11,"double quantification","none",NA
+"2838:TP101","PFNA",11,"double quantification","none",NA
+"2838:TP101","PFOA",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2838:TP101","PFOS",11,"double quantification","none",NA
+"2838:TP102","HFPODA",11,"double quantification","none",NA
+"2838:TP102","PFBS",11,"double quantification","none",NA
+"2838:TP102","PFHxA",11,"double quantification","none",NA
+"2838:TP102","PFHxS",11,"double quantification","none",NA
+"2838:TP102","PFNA",11,"double quantification","none",NA
+"2838:TP102","PFOA",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2838:TP102","PFOS",11,"double quantification","none",NA
+"2838:TP103","HFPODA",9,"double quantification","none",NA
+"2838:TP103","PFBS",9,"double quantification","none",NA
+"2838:TP103","PFHxA",9,"double quantification","none",NA
+"2838:TP103","PFHxS",9,"double quantification","none",NA
+"2838:TP103","PFNA",9,"double quantification","none",NA
+"2838:TP103","PFOA",9,"double quantification","none",NA
+"2838:TP103","PFOS",9,"double quantification","none",NA
+"2925:TP023","HFPODA",22,"double quantification","none",NA
+"2925:TP023","PFBS",22,"double quantification","none",NA
+"2925:TP023","PFHxA",22,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2925:TP023","PFHxS",22,"double quantification","none",NA
+"2925:TP023","PFNA",22,"double quantification","none",NA
+"2925:TP023","PFOA",22,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2925:TP023","PFOS",22,"double quantification","none",NA
+"2940:CH001","HFPODA",9,"double quantification","none",NA
+"2940:CH001","PFBS",9,"double quantification","none",NA
+"2940:CH001","PFHxA",9,"double quantification","none",NA
+"2940:CH001","PFHxS",9,"double quantification","none",NA
+"2940:CH001","PFNA",9,"double quantification","none",NA
+"2940:CH001","PFOA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"2940:CH001","PFOS",9,"double quantification","none",NA
+"3018:TP101","HFPODA",15,"double quantification","none",NA
+"3018:TP101","PFBS",15,"NP prediction limit (baseline max), 1-of-2","SSI",12
+"3018:TP101","PFHxA",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3018:TP101","PFHxS",15,"NP prediction limit (baseline max), 1-of-2","SSI",11
+"3018:TP101","PFNA",15,"double quantification","none",NA
+"3018:TP101","PFOA",15,"NP prediction limit (baseline max), 1-of-2","SSI",11
+"3018:TP101","PFOS",15,"NP prediction limit (baseline max), 1-of-2","SSI",11
+"3070:TP456","HFPODA",10,"double quantification","none",NA
+"3070:TP456","PFBS",10,"double quantification","none",NA
+"3070:TP456","PFHxA",10,"double quantification","none",NA
+"3070:TP456","PFHxS",10,"double quantification","none",NA
+"3070:TP456","PFNA",10,"double quantification","none",NA
+"3070:TP456","PFOA",10,"double quantification","none",NA
+"3070:TP456","PFOS",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3130:CH001","HFPODA",14,"double quantification","none",NA
+"3130:CH001","PFBS",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3130:CH001","PFHxA",14,"double quantification","none",NA
+"3130:CH001","PFHxS",14,"double quantification","none",NA
+"3130:CH001","PFNA",14,"double quantification","none",NA
+"3130:CH001","PFOA",14,"double quantification","none",NA
+"3130:CH001","PFOS",14,"double quantification","none",NA
+"3130:WL003","HFPODA",11,"double quantification","none",NA
+"3130:WL003","PFBS",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3130:WL003","PFHxA",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3130:WL003","PFHxS",11,"double quantification","none",NA
+"3130:WL003","PFNA",11,"double quantification","none",NA
+"3130:WL003","PFOA",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3130:WL003","PFOS",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3190:TP100","HFPODA",13,"double quantification","none",NA
+"3190:TP100","PFBS",13,"double quantification","none",NA
+"3190:TP100","PFHxA",13,"double quantification","none",NA
+"3190:TP100","PFHxS",13,"double quantification","none",NA
+"3190:TP100","PFNA",13,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3190:TP100","PFOA",13,"double quantification","none",NA
+"3190:TP100","PFOS",13,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3342:TP100","HFPODA",19,"double quantification","none",NA
+"3342:TP100","PFBS",19,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3342:TP100","PFHxA",19,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3342:TP100","PFHxS",19,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3342:TP100","PFNA",19,"double quantification","none",NA
+"3342:TP100","PFOA",19,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3342:TP100","PFOS",19,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3342:TP101","HFPODA",20,"double quantification","none",NA
+"3342:TP101","PFBS",20,"NP prediction limit (baseline max), 1-of-2","SSI",11
+"3342:TP101","PFHxA",20,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3342:TP101","PFHxS",20,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3342:TP101","PFNA",20,"double quantification","none",NA
+"3342:TP101","PFOA",20,"NP prediction limit (baseline max), 1-of-2","SSI",14
+"3342:TP101","PFOS",20,"NP prediction limit (baseline max), 1-of-2","SSI",15
+"347:WL002","HFPODA",9,"double quantification","none",NA
+"347:WL002","PFBS",9,"double quantification","none",NA
+"347:WL002","PFHxA",9,"double quantification","none",NA
+"347:WL002","PFHxS",9,"double quantification","none",NA
+"347:WL002","PFNA",9,"double quantification","none",NA
+"347:WL002","PFOA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"347:WL002","PFOS",9,"double quantification","none",NA
+"347:WL005","HFPODA",10,"double quantification","none",NA
+"347:WL005","PFBS",10,"double quantification","none",NA
+"347:WL005","PFHxA",10,"double quantification","none",NA
+"347:WL005","PFHxS",10,"double quantification","none",NA
+"347:WL005","PFNA",10,"double quantification","none",NA
+"347:WL005","PFOA",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"347:WL005","PFOS",10,"double quantification","none",NA
+"3470:TP001","HFPODA",15,"double quantification","none",NA
+"3470:TP001","PFBS",15,"double quantification","none",NA
+"3470:TP001","PFHxA",15,"double quantification","none",NA
+"3470:TP001","PFHxS",15,"double quantification","none",NA
+"3470:TP001","PFNA",15,"double quantification","none",NA
+"3470:TP001","PFOA",15,"double quantification","none",NA
+"3470:TP001","PFOS",15,"double quantification","none",NA
+"3510:TP001","HFPODA",9,"double quantification","none",NA
+"3510:TP001","PFBS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3510:TP001","PFHxA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3510:TP001","PFHxS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3510:TP001","PFNA",9,"double quantification","none",NA
+"3510:TP001","PFOA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3510:TP001","PFOS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3520:TP001","HFPODA",25,"double quantification","none",NA
+"3520:TP001","PFBS",25,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3520:TP001","PFHxA",25,"double quantification","none",NA
+"3520:TP001","PFHxS",25,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3520:TP001","PFNA",25,"double quantification","none",NA
+"3520:TP001","PFOA",25,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3520:TP001","PFOS",25,"NP prediction limit (baseline max), 1-of-2","SSI",13
+"3520:TP003","HFPODA",13,"double quantification","none",NA
+"3520:TP003","PFBS",13,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3520:TP003","PFHxA",13,"double quantification","none",NA
+"3520:TP003","PFHxS",13,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3520:TP003","PFNA",13,"double quantification","none",NA
+"3520:TP003","PFOA",13,"double quantification","none",NA
+"3520:TP003","PFOS",13,"double quantification","none",NA
+"3520:TP004","HFPODA",11,"double quantification","none",NA
+"3520:TP004","PFBS",11,"double quantification","none",NA
+"3520:TP004","PFHxA",11,"double quantification","none",NA
+"3520:TP004","PFHxS",11,"double quantification","none",NA
+"3520:TP004","PFNA",11,"double quantification","none",NA
+"3520:TP004","PFOA",11,"double quantification","none",NA
+"3520:TP004","PFOS",11,"double quantification","none",NA
+"3520:TP005","HFPODA",22,"double quantification","none",NA
+"3520:TP005","PFBS",22,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3520:TP005","PFHxA",22,"NP prediction limit (baseline max), 1-of-2","SSI",9
+"3520:TP005","PFHxS",22,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3520:TP005","PFNA",22,"double quantification","none",NA
+"3520:TP005","PFOA",22,"NP prediction limit (baseline max), 1-of-2","SSI",9
+"3520:TP005","PFOS",22,"NP prediction limit (baseline max), 1-of-2","SSI",9
+"3520:TP008","HFPODA",11,"double quantification","none",NA
+"3520:TP008","PFBS",11,"double quantification","none",NA
+"3520:TP008","PFHxA",11,"double quantification","none",NA
+"3520:TP008","PFHxS",11,"double quantification","none",NA
+"3520:TP008","PFNA",11,"double quantification","none",NA
+"3520:TP008","PFOA",11,"double quantification","none",NA
+"3520:TP008","PFOS",11,"double quantification","none",NA
+"3520:TP009","HFPODA",11,"double quantification","none",NA
+"3520:TP009","PFBS",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3520:TP009","PFHxA",11,"double quantification","none",NA
+"3520:TP009","PFHxS",11,"double quantification","none",NA
+"3520:TP009","PFNA",11,"double quantification","none",NA
+"3520:TP009","PFOA",11,"double quantification","none",NA
+"3520:TP009","PFOS",11,"double quantification","none",NA
+"3520:TP011","HFPODA",11,"double quantification","none",NA
+"3520:TP011","PFBS",11,"double quantification","none",NA
+"3520:TP011","PFHxA",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3520:TP011","PFHxS",11,"double quantification","none",NA
+"3520:TP011","PFNA",11,"double quantification","none",NA
+"3520:TP011","PFOA",11,"double quantification","none",NA
+"3520:TP011","PFOS",11,"double quantification","none",NA
+"3520:TP012","HFPODA",11,"double quantification","none",NA
+"3520:TP012","PFBS",11,"double quantification","none",NA
+"3520:TP012","PFHxA",11,"double quantification","none",NA
+"3520:TP012","PFHxS",11,"double quantification","none",NA
+"3520:TP012","PFNA",11,"double quantification","none",NA
+"3520:TP012","PFOA",11,"double quantification","none",NA
+"3520:TP012","PFOS",11,"double quantification","none",NA
+"3520:TP014","HFPODA",22,"double quantification","none",NA
+"3520:TP014","PFBS",22,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3520:TP014","PFHxA",22,"double quantification","none",NA
+"3520:TP014","PFHxS",22,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3520:TP014","PFNA",22,"double quantification","none",NA
+"3520:TP014","PFOA",22,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3520:TP014","PFOS",22,"NP prediction limit (baseline max), 1-of-2","SSI",10
+"3520:TP022","HFPODA",11,"double quantification","none",NA
+"3520:TP022","PFBS",11,"double quantification","none",NA
+"3520:TP022","PFHxA",11,"double quantification","none",NA
+"3520:TP022","PFHxS",11,"double quantification","none",NA
+"3520:TP022","PFNA",11,"double quantification","none",NA
+"3520:TP022","PFOA",11,"double quantification","none",NA
+"3520:TP022","PFOS",11,"double quantification","none",NA
+"3520:TP024","HFPODA",11,"double quantification","none",NA
+"3520:TP024","PFBS",11,"double quantification","none",NA
+"3520:TP024","PFHxA",11,"double quantification","none",NA
+"3520:TP024","PFHxS",11,"double quantification","none",NA
+"3520:TP024","PFNA",11,"double quantification","none",NA
+"3520:TP024","PFOA",11,"double quantification","none",NA
+"3520:TP024","PFOS",11,"double quantification","none",NA
+"3520:TP025","HFPODA",11,"double quantification","none",NA
+"3520:TP025","PFBS",11,"double quantification","none",NA
+"3520:TP025","PFHxA",11,"double quantification","none",NA
+"3520:TP025","PFHxS",11,"double quantification","none",NA
+"3520:TP025","PFNA",11,"double quantification","none",NA
+"3520:TP025","PFOA",11,"double quantification","none",NA
+"3520:TP025","PFOS",11,"double quantification","none",NA
+"3520:TP039","HFPODA",15,"double quantification","none",NA
+"3520:TP039","PFBS",15,"double quantification","none",NA
+"3520:TP039","PFHxA",15,"double quantification","none",NA
+"3520:TP039","PFHxS",15,"double quantification","none",NA
+"3520:TP039","PFNA",15,"double quantification","none",NA
+"3520:TP039","PFOA",15,"double quantification","none",NA
+"3520:TP039","PFOS",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3598:TP012","HFPODA",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3598:TP012","PFBS",10,"double quantification","none",NA
+"3598:TP012","PFHxA",10,"double quantification","none",NA
+"3598:TP012","PFHxS",10,"double quantification","none",NA
+"3598:TP012","PFNA",10,"double quantification","none",NA
+"3598:TP012","PFOA",10,"double quantification","none",NA
+"3598:TP012","PFOS",10,"double quantification","none",NA
+"3640:CH007","HFPODA",9,"double quantification","none",NA
+"3640:CH007","PFBS",9,"NP prediction limit (baseline max), 1-of-2","pending",NA
+"3640:CH007","PFHxA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3640:CH007","PFHxS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3640:CH007","PFNA",9,"double quantification","none",NA
+"3640:CH007","PFOA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3640:CH007","PFOS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3700:TP103","HFPODA",10,"double quantification","none",NA
+"3700:TP103","PFBS",10,"double quantification","none",NA
+"3700:TP103","PFHxA",10,"double quantification","none",NA
+"3700:TP103","PFHxS",10,"double quantification","none",NA
+"3700:TP103","PFNA",10,"double quantification","none",NA
+"3700:TP103","PFOA",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3700:TP103","PFOS",10,"double quantification","none",NA
+"3741:TP001","HFPODA",9,"double quantification","none",NA
+"3741:TP001","PFBS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3741:TP001","PFHxA",9,"double quantification","none",NA
+"3741:TP001","PFHxS",9,"double quantification","none",NA
+"3741:TP001","PFNA",9,"double quantification","none",NA
+"3741:TP001","PFOA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3741:TP001","PFOS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3943:CH012","HFPODA",10,"double quantification","none",NA
+"3943:CH012","PFBS",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"3943:CH012","PFHxA",10,"double quantification","none",NA
+"3943:CH012","PFHxS",10,"double quantification","none",NA
+"3943:CH012","PFNA",10,"double quantification","none",NA
+"3943:CH012","PFOA",10,"double quantification","none",NA
+"3943:CH012","PFOS",10,"double quantification","none",NA
+"3960:TP100","HFPODA",21,"double quantification","none",NA
+"3960:TP100","PFBS",21,"double quantification","none",NA
+"3960:TP100","PFHxA",21,"double quantification","none",NA
+"3960:TP100","PFHxS",21,"double quantification","none",NA
+"3960:TP100","PFNA",21,"double quantification","none",NA
+"3960:TP100","PFOA",21,"double quantification","SSI",9
+"3960:TP100","PFOS",21,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40002:CH001","HFPODA",13,"double quantification","none",NA
+"40002:CH001","PFBS",13,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40002:CH001","PFHxA",13,"double quantification","none",NA
+"40002:CH001","PFHxS",13,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40002:CH001","PFNA",13,"double quantification","none",NA
+"40002:CH001","PFOA",13,"double quantification","SSI",12
+"40002:CH001","PFOS",13,"double quantification","SSI",12
+"40028:CH001","HFPODA",11,"double quantification","none",NA
+"40028:CH001","PFBS",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40028:CH001","PFHxA",11,"NP prediction limit (baseline max), 1-of-2","SSI",10
+"40028:CH001","PFHxS",11,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40028:CH001","PFNA",11,"double quantification","none",NA
+"40028:CH001","PFOA",11,"NP prediction limit (baseline max), 1-of-2","pending",NA
+"40028:CH001","PFOS",11,"double quantification","none",NA
+"40029:CH001","HFPODA",10,"double quantification","none",NA
+"40029:CH001","PFBS",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40029:CH001","PFHxA",10,"double quantification","none",NA
+"40029:CH001","PFHxS",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40029:CH001","PFNA",10,"double quantification","none",NA
+"40029:CH001","PFOA",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40029:CH001","PFOS",10,"double quantification","none",NA
+"40046:CH001","HFPODA",10,"double quantification","none",NA
+"40046:CH001","PFBS",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40046:CH001","PFHxA",10,"double quantification","none",NA
+"40046:CH001","PFHxS",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40046:CH001","PFNA",10,"double quantification","none",NA
+"40046:CH001","PFOA",10,"double quantification","none",NA
+"40046:CH001","PFOS",10,"double quantification","none",NA
+"40060:CH004","HFPODA",9,"double quantification","none",NA
+"40060:CH004","PFBS",9,"double quantification","none",NA
+"40060:CH004","PFHxA",9,"double quantification","none",NA
+"40060:CH004","PFHxS",9,"double quantification","none",NA
+"40060:CH004","PFNA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40060:CH004","PFOA",9,"double quantification","none",NA
+"40060:CH004","PFOS",9,"double quantification","none",NA
+"40070:CH001","HFPODA",13,"double quantification","none",NA
+"40070:CH001","PFBS",13,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40070:CH001","PFHxA",13,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40070:CH001","PFHxS",13,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40070:CH001","PFNA",13,"double quantification","none",NA
+"40070:CH001","PFOA",13,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40070:CH001","PFOS",13,"NP prediction limit (baseline max), 1-of-2","SSI",9
+"40070:SS001","HFPODA",9,"double quantification","none",NA
+"40070:SS001","PFBS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40070:SS001","PFHxA",9,"NP prediction limit (baseline max), 1-of-2","pending",NA
+"40070:SS001","PFHxS",9,"double quantification","none",NA
+"40070:SS001","PFNA",9,"double quantification","none",NA
+"40070:SS001","PFOA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40070:SS001","PFOS",9,"double quantification","none",NA
+"40070:TP100","HFPODA",9,"double quantification","none",NA
+"40070:TP100","PFBS",9,"double quantification","none",NA
+"40070:TP100","PFHxA",9,"double quantification","none",NA
+"40070:TP100","PFHxS",9,"double quantification","none",NA
+"40070:TP100","PFNA",9,"double quantification","none",NA
+"40070:TP100","PFOA",9,"double quantification","none",NA
+"40070:TP100","PFOS",9,"double quantification","none",NA
+"40093:CH001","HFPODA",14,"double quantification","none",NA
+"40093:CH001","PFBS",13,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40093:CH001","PFHxA",14,"double quantification","none",NA
+"40093:CH001","PFHxS",13,"double quantification","pending",NA
+"40093:CH001","PFNA",14,"double quantification","none",NA
+"40093:CH001","PFOA",13,"double quantification","SSI",11
+"40093:CH001","PFOS",13,"NP prediction limit (baseline max), 1-of-2","pending",NA
+"40098:CH001","HFPODA",10,"double quantification","none",NA
+"40098:CH001","PFBS",10,"NP prediction limit (baseline max), 1-of-2","SSI",9
+"40098:CH001","PFHxA",10,"double quantification","none",NA
+"40098:CH001","PFHxS",10,"double quantification","none",NA
+"40098:CH001","PFNA",10,"double quantification","none",NA
+"40098:CH001","PFOA",10,"double quantification","none",NA
+"40098:CH001","PFOS",10,"double quantification","none",NA
+"40206:TP100","HFPODA",9,"double quantification","none",NA
+"40206:TP100","PFBS",9,"double quantification","none",NA
+"40206:TP100","PFHxA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40206:TP100","PFHxS",9,"double quantification","none",NA
+"40206:TP100","PFNA",9,"double quantification","none",NA
+"40206:TP100","PFOA",9,"double quantification","none",NA
+"40206:TP100","PFOS",9,"double quantification","none",NA
+"40209:CH001","HFPODA",10,"double quantification","none",NA
+"40209:CH001","PFBS",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40209:CH001","PFHxA",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40209:CH001","PFHxS",10,"NP prediction limit (baseline max), 1-of-2","pending",NA
+"40209:CH001","PFNA",10,"double quantification","none",NA
+"40209:CH001","PFOA",10,"NP prediction limit (baseline max), 1-of-2","pending",NA
+"40209:CH001","PFOS",10,"NP prediction limit (baseline max), 1-of-2","pending",NA
+"40218:CH001","HFPODA",21,"double quantification","none",NA
+"40218:CH001","PFBS",21,"double quantification","SSI",18
+"40218:CH001","PFHxA",21,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40218:CH001","PFHxS",21,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40218:CH001","PFNA",21,"double quantification","none",NA
+"40218:CH001","PFOA",21,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40218:CH001","PFOS",21,"double quantification","SSI",12
+"40240:CH001","HFPODA",9,"double quantification","none",NA
+"40240:CH001","PFBS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40240:CH001","PFHxA",9,"double quantification","none",NA
+"40240:CH001","PFHxS",9,"double quantification","none",NA
+"40240:CH001","PFNA",9,"double quantification","none",NA
+"40240:CH001","PFOA",9,"double quantification","none",NA
+"40240:CH001","PFOS",9,"double quantification","none",NA
+"40253:TP100","HFPODA",9,"double quantification","none",NA
+"40253:TP100","PFBS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40253:TP100","PFHxA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40253:TP100","PFHxS",9,"double quantification","none",NA
+"40253:TP100","PFNA",9,"double quantification","none",NA
+"40253:TP100","PFOA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40253:TP100","PFOS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40284:WL001","HFPODA",21,"double quantification","none",NA
+"40284:WL001","PFBS",21,"NP prediction limit (baseline max), 1-of-2","SSI",19
+"40284:WL001","PFHxA",21,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40284:WL001","PFHxS",21,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40284:WL001","PFNA",21,"double quantification","none",NA
+"40284:WL001","PFOA",21,"NP prediction limit (baseline max), 1-of-2","pending",NA
+"40284:WL001","PFOS",21,"NP prediction limit (baseline max), 1-of-2","pending",NA
+"40284:WL003","HFPODA",15,"double quantification","none",NA
+"40284:WL003","PFBS",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40284:WL003","PFHxA",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40284:WL003","PFHxS",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40284:WL003","PFNA",15,"double quantification","none",NA
+"40284:WL003","PFOA",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40284:WL003","PFOS",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40333:CH001","HFPODA",9,"double quantification","none",NA
+"40333:CH001","PFBS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40333:CH001","PFHxA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40333:CH001","PFHxS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40333:CH001","PFNA",9,"double quantification","none",NA
+"40333:CH001","PFOA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40333:CH001","PFOS",9,"double quantification","none",NA
+"40363:CH001","HFPODA",21,"double quantification","none",NA
+"40363:CH001","PFBS",21,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40363:CH001","PFHxA",21,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40363:CH001","PFHxS",21,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40363:CH001","PFNA",21,"double quantification","none",NA
+"40363:CH001","PFOA",21,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40363:CH001","PFOS",21,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40363:CH002","HFPODA",21,"double quantification","none",NA
+"40363:CH002","PFBS",21,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40363:CH002","PFHxA",21,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40363:CH002","PFHxS",21,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40363:CH002","PFNA",21,"double quantification","none",NA
+"40363:CH002","PFOA",21,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40363:CH002","PFOS",21,"NP prediction limit (baseline max), 1-of-2","SSI",14
+"40405:CH001","HFPODA",12,"double quantification","none",NA
+"40405:CH001","PFBS",12,"double quantification","none",NA
+"40405:CH001","PFHxA",12,"double quantification","none",NA
+"40405:CH001","PFHxS",12,"double quantification","none",NA
+"40405:CH001","PFNA",12,"double quantification","none",NA
+"40405:CH001","PFOA",12,"double quantification","none",NA
+"40405:CH001","PFOS",12,"double quantification","none",NA
+"40414:CH001","HFPODA",9,"double quantification","none",NA
+"40414:CH001","PFBS",9,"double quantification","none",NA
+"40414:CH001","PFHxA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40414:CH001","PFHxS",9,"double quantification","none",NA
+"40414:CH001","PFNA",9,"double quantification","none",NA
+"40414:CH001","PFOA",9,"double quantification","none",NA
+"40414:CH001","PFOS",9,"double quantification","none",NA
+"40426:CH001","HFPODA",18,"double quantification","none",NA
+"40426:CH001","PFBS",18,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40426:CH001","PFHxA",18,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40426:CH001","PFHxS",18,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40426:CH001","PFNA",18,"double quantification","none",NA
+"40426:CH001","PFOA",18,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40426:CH001","PFOS",18,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40426:WL001","HFPODA",18,"double quantification","none",NA
+"40426:WL001","PFBS",18,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40426:WL001","PFHxA",18,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40426:WL001","PFHxS",18,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40426:WL001","PFNA",18,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40426:WL001","PFOA",18,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40426:WL001","PFOS",18,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40491:TP100","HFPODA",20,"double quantification","none",NA
+"40491:TP100","PFBS",20,"NP prediction limit (baseline max), 1-of-2","SSI",12
+"40491:TP100","PFHxA",20,"NP prediction limit (baseline max), 1-of-2","SSI",11
+"40491:TP100","PFHxS",20,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40491:TP100","PFNA",20,"double quantification","none",NA
+"40491:TP100","PFOA",20,"NP prediction limit (baseline max), 1-of-2","SSI",14
+"40491:TP100","PFOS",20,"NP prediction limit (baseline max), 1-of-2","SSI",10
+"40500:CH001","HFPODA",16,"double quantification","none",NA
+"40500:CH001","PFBS",16,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40500:CH001","PFHxA",16,"double quantification","none",NA
+"40500:CH001","PFHxS",16,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40500:CH001","PFNA",16,"double quantification","none",NA
+"40500:CH001","PFOA",16,"NP prediction limit (baseline max), 1-of-2","SSI",13
+"40500:CH001","PFOS",16,"double quantification","SSI",9
+"40516:CH001","HFPODA",9,"double quantification","none",NA
+"40516:CH001","PFBS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40516:CH001","PFHxA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40516:CH001","PFHxS",9,"double quantification","none",NA
+"40516:CH001","PFNA",9,"double quantification","none",NA
+"40516:CH001","PFOA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40516:CH001","PFOS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40575:TP100","HFPODA",10,"double quantification","none",NA
+"40575:TP100","PFBS",10,"double quantification","none",NA
+"40575:TP100","PFHxA",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40575:TP100","PFHxS",10,"double quantification","none",NA
+"40575:TP100","PFNA",10,"double quantification","none",NA
+"40575:TP100","PFOA",10,"double quantification","none",NA
+"40575:TP100","PFOS",10,"double quantification","none",NA
+"40576:CH001","HFPODA",22,"double quantification","none",NA
+"40576:CH001","PFBS",22,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40576:CH001","PFHxA",22,"NP prediction limit (baseline max), 1-of-2","SSI",20
+"40576:CH001","PFHxS",22,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40576:CH001","PFNA",22,"double quantification","none",NA
+"40576:CH001","PFOA",22,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40576:CH001","PFOS",22,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40600:TP100","HFPODA",12,"double quantification","none",NA
+"40600:TP100","PFBS",12,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40600:TP100","PFHxA",12,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40600:TP100","PFHxS",12,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40600:TP100","PFNA",12,"double quantification","none",NA
+"40600:TP100","PFOA",12,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40600:TP100","PFOS",12,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40614:CH001","HFPODA",17,"double quantification","none",NA
+"40614:CH001","PFBS",17,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40614:CH001","PFHxA",17,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40614:CH001","PFHxS",17,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40614:CH001","PFNA",17,"double quantification","none",NA
+"40614:CH001","PFOA",17,"double quantification","none",NA
+"40614:CH001","PFOS",17,"double quantification","none",NA
+"40653:CH001","HFPODA",22,"double quantification","none",NA
+"40653:CH001","PFBS",22,"NP prediction limit (baseline max), 1-of-2","none",NA
+"40653:CH001","PFHxA",22,"NP prediction limit (baseline max), 1-of-2","SSI",20
+"40653:CH001","PFHxS",22,"double quantification","none",NA
+"40653:CH001","PFNA",22,"double quantification","none",NA
+"40653:CH001","PFOA",22,"NP prediction limit (baseline max), 1-of-2","SSI",20
+"40653:CH001","PFOS",22,"NP prediction limit (baseline max), 1-of-2","none",NA
+"4090:TP100","HFPODA",17,"double quantification","none",NA
+"4090:TP100","PFBS",17,"double quantification","none",NA
+"4090:TP100","PFHxA",17,"double quantification","none",NA
+"4090:TP100","PFHxS",17,"double quantification","none",NA
+"4090:TP100","PFNA",17,"double quantification","none",NA
+"4090:TP100","PFOA",17,"double quantification","none",NA
+"4090:TP100","PFOS",17,"NP prediction limit (baseline max), 1-of-2","none",NA
+"4155:TP012","HFPODA",10,"double quantification","none",NA
+"4155:TP012","PFBS",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"4155:TP012","PFHxA",10,"double quantification","none",NA
+"4155:TP012","PFHxS",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"4155:TP012","PFNA",10,"double quantification","none",NA
+"4155:TP012","PFOA",10,"double quantification","none",NA
+"4155:TP012","PFOS",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"4170:TP003","HFPODA",9,"double quantification","none",NA
+"4170:TP003","PFBS",9,"double quantification","none",NA
+"4170:TP003","PFHxA",9,"double quantification","none",NA
+"4170:TP003","PFHxS",9,"double quantification","none",NA
+"4170:TP003","PFNA",9,"double quantification","none",NA
+"4170:TP003","PFOA",9,"double quantification","none",NA
+"4170:TP003","PFOS",9,"double quantification","none",NA
+"4250:TP001","HFPODA",16,"double quantification","none",NA
+"4250:TP001","PFBS",16,"double quantification","none",NA
+"4250:TP001","PFHxA",16,"double quantification","none",NA
+"4250:TP001","PFHxS",16,"double quantification","none",NA
+"4250:TP001","PFNA",16,"double quantification","none",NA
+"4250:TP001","PFOA",16,"double quantification","none",NA
+"4250:TP001","PFOS",16,"double quantification","none",NA
+"4450:TP001","HFPODA",20,"double quantification","none",NA
+"4450:TP001","PFBS",20,"double quantification","none",NA
+"4450:TP001","PFHxA",20,"NP prediction limit (baseline max), 1-of-2","none",NA
+"4450:TP001","PFHxS",20,"double quantification","none",NA
+"4450:TP001","PFNA",20,"double quantification","none",NA
+"4450:TP001","PFOA",20,"NP prediction limit (baseline max), 1-of-2","none",NA
+"4450:TP001","PFOS",20,"NP prediction limit (baseline max), 1-of-2","none",NA
+"4510:TP100","HFPODA",19,"double quantification","none",NA
+"4510:TP100","PFBS",19,"NP prediction limit (baseline max), 1-of-2","none",NA
+"4510:TP100","PFHxA",19,"NP prediction limit (baseline max), 1-of-2","none",NA
+"4510:TP100","PFHxS",19,"double quantification","none",NA
+"4510:TP100","PFNA",19,"double quantification","none",NA
+"4510:TP100","PFOA",19,"NP prediction limit (baseline max), 1-of-2","none",NA
+"4510:TP100","PFOS",19,"NP prediction limit (baseline max), 1-of-2","none",NA
+"4570:TP100","HFPODA",21,"double quantification","none",NA
+"4570:TP100","PFBS",21,"double quantification","none",NA
+"4570:TP100","PFHxA",21,"double quantification","none",NA
+"4570:TP100","PFHxS",21,"double quantification","none",NA
+"4570:TP100","PFNA",21,"double quantification","none",NA
+"4570:TP100","PFOA",21,"double quantification","none",NA
+"4570:TP100","PFOS",21,"NP prediction limit (baseline max), 1-of-2","none",NA
+"4580:TP100","HFPODA",24,"double quantification","none",NA
+"4580:TP100","PFBS",24,"double quantification","none",NA
+"4580:TP100","PFHxA",23,"double quantification","none",NA
+"4580:TP100","PFHxS",24,"double quantification","none",NA
+"4580:TP100","PFNA",24,"double quantification","none",NA
+"4580:TP100","PFOA",17,"NP prediction limit (baseline max), 1-of-2","none",NA
+"4580:TP100","PFOS",18,"NP prediction limit (baseline max), 1-of-2","none",NA
+"4596:CH001","HFPODA",9,"double quantification","none",NA
+"4596:CH001","PFBS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"4596:CH001","PFHxA",9,"double quantification","none",NA
+"4596:CH001","PFHxS",9,"double quantification","none",NA
+"4596:CH001","PFNA",9,"double quantification","none",NA
+"4596:CH001","PFOA",9,"double quantification","none",NA
+"4596:CH001","PFOS",9,"double quantification","none",NA
+"4680:TP001","HFPODA",15,"double quantification","none",NA
+"4680:TP001","PFBS",15,"double quantification","none",NA
+"4680:TP001","PFHxA",15,"double quantification","none",NA
+"4680:TP001","PFHxS",15,"double quantification","none",NA
+"4680:TP001","PFNA",15,"double quantification","none",NA
+"4680:TP001","PFOA",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"4680:TP001","PFOS",15,"NP prediction limit (baseline max), 1-of-2","none",NA
+"4820:TP001","HFPODA",11,"double quantification","none",NA
+"4820:TP001","PFBS",11,"double quantification","none",NA
+"4820:TP001","PFHxA",11,"double quantification","none",NA
+"4820:TP001","PFHxS",11,"double quantification","none",NA
+"4820:TP001","PFNA",11,"double quantification","none",NA
+"4820:TP001","PFOA",11,"NP prediction limit (baseline max), 1-of-2","SSI",10
+"4820:TP001","PFOS",11,"double quantification","none",NA
+"4847:TP100","HFPODA",53,"double quantification","none",NA
+"4847:TP100","PFBS",53,"NP prediction limit (baseline max), 1-of-2","none",NA
+"4847:TP100","PFHxA",53,"NP prediction limit (baseline max), 1-of-2","none",NA
+"4847:TP100","PFHxS",53,"double quantification","none",NA
+"4847:TP100","PFNA",53,"double quantification","none",NA
+"4847:TP100","PFOA",53,"NP prediction limit (baseline max), 1-of-2","none",NA
+"4847:TP100","PFOS",53,"NP prediction limit (baseline max), 1-of-2","SSI",49
+"4873:WL005","HFPODA",12,"double quantification","none",NA
+"4873:WL005","PFBS",12,"NP prediction limit (baseline max), 1-of-2","none",NA
+"4873:WL005","PFHxA",12,"NP prediction limit (baseline max), 1-of-2","none",NA
+"4873:WL005","PFHxS",12,"double quantification","none",NA
+"4873:WL005","PFNA",12,"double quantification","none",NA
+"4873:WL005","PFOA",12,"NP prediction limit (baseline max), 1-of-2","none",NA
+"4873:WL005","PFOS",12,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5060:TP006","HFPODA",20,"double quantification","none",NA
+"5060:TP006","PFBS",20,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5060:TP006","PFHxA",20,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5060:TP006","PFHxS",20,"double quantification","none",NA
+"5060:TP006","PFNA",20,"double quantification","none",NA
+"5060:TP006","PFOA",20,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5060:TP006","PFOS",20,"double quantification","none",NA
+"5060:TP007","HFPODA",10,"double quantification","none",NA
+"5060:TP007","PFBS",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5060:TP007","PFHxA",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5060:TP007","PFHxS",10,"double quantification","none",NA
+"5060:TP007","PFNA",10,"double quantification","none",NA
+"5060:TP007","PFOA",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5060:TP007","PFOS",10,"double quantification","none",NA
+"5310:CH001","HFPODA",9,"double quantification","none",NA
+"5310:CH001","PFBS",9,"double quantification","none",NA
+"5310:CH001","PFHxA",9,"double quantification","none",NA
+"5310:CH001","PFHxS",9,"double quantification","none",NA
+"5310:CH001","PFNA",9,"double quantification","none",NA
+"5310:CH001","PFOA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5310:CH001","PFOS",9,"double quantification","none",NA
+"5370:CH001","HFPODA",35,"double quantification","none",NA
+"5370:CH001","PFBS",35,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5370:CH001","PFHxA",35,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5370:CH001","PFHxS",35,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5370:CH001","PFNA",35,"double quantification","none",NA
+"5370:CH001","PFOA",35,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5370:CH001","PFOS",35,"NP prediction limit (baseline max), 1-of-2","SSI",9
+"5370:TP100","HFPODA",45,"double quantification","none",NA
+"5370:TP100","PFBS",45,"NP prediction limit (baseline max), 1-of-2","SSI",27
+"5370:TP100","PFHxA",45,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5370:TP100","PFHxS",45,"double quantification","none",NA
+"5370:TP100","PFNA",45,"double quantification","none",NA
+"5370:TP100","PFOA",45,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5370:TP100","PFOS",45,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5520:TP201","HFPODA",9,"double quantification","none",NA
+"5520:TP201","PFHxA",9,"double quantification","none",NA
+"5520:TP201","PFHxS",9,"double quantification","none",NA
+"5520:TP201","PFNA",9,"double quantification","none",NA
+"5520:TP201","PFOA",9,"double quantification","none",NA
+"5520:TP201","PFOS",9,"double quantification","none",NA
+"5520:TP202","HFPODA",10,"double quantification","none",NA
+"5520:TP202","PFHxA",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5520:TP202","PFHxS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5520:TP202","PFNA",10,"double quantification","none",NA
+"5520:TP202","PFOA",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5520:TP202","PFOS",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5520:TP204","HFPODA",9,"double quantification","none",NA
+"5520:TP204","PFBS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5520:TP204","PFHxA",9,"double quantification","none",NA
+"5520:TP204","PFHxS",9,"double quantification","none",NA
+"5520:TP204","PFNA",9,"double quantification","none",NA
+"5520:TP204","PFOA",9,"double quantification","none",NA
+"5520:TP204","PFOS",9,"double quantification","none",NA
+"5520:TP205","HFPODA",10,"double quantification","none",NA
+"5520:TP205","PFBS",10,"double quantification","none",NA
+"5520:TP205","PFHxA",10,"double quantification","none",NA
+"5520:TP205","PFNA",10,"double quantification","none",NA
+"5520:TP205","PFOA",10,"double quantification","none",NA
+"5520:TP205","PFOS",10,"double quantification","none",NA
+"5566:CH001","HFPODA",9,"double quantification","none",NA
+"5566:CH001","PFBS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5566:CH001","PFHxA",9,"double quantification","none",NA
+"5566:CH001","PFHxS",9,"double quantification","none",NA
+"5566:CH001","PFNA",9,"double quantification","none",NA
+"5566:CH001","PFOA",9,"double quantification","none",NA
+"5566:CH001","PFOS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5810:TP004","HFPODA",9,"double quantification","none",NA
+"5810:TP004","PFBS",9,"NP prediction limit (baseline max), 1-of-2","pending",NA
+"5810:TP004","PFHxA",9,"double quantification","none",NA
+"5810:TP004","PFHxS",9,"double quantification","none",NA
+"5810:TP004","PFNA",9,"double quantification","none",NA
+"5810:TP004","PFOA",9,"double quantification","none",NA
+"5810:TP004","PFOS",9,"double quantification","none",NA
+"5819:CH001","HFPODA",10,"double quantification","none",NA
+"5819:CH001","PFBS",10,"double quantification","none",NA
+"5819:CH001","PFHxA",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5819:CH001","PFHxS",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5819:CH001","PFNA",10,"double quantification","none",NA
+"5819:CH001","PFOA",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5819:CH001","PFOS",10,"double quantification","none",NA
+"5850:TP001","HFPODA",12,"double quantification","none",NA
+"5850:TP001","PFBS",12,"double quantification","none",NA
+"5850:TP001","PFHxA",12,"double quantification","none",NA
+"5850:TP001","PFHxS",12,"double quantification","none",NA
+"5850:TP001","PFNA",12,"double quantification","none",NA
+"5850:TP001","PFOA",12,"NP prediction limit (baseline max), 1-of-2","none",NA
+"5850:TP001","PFOS",12,"double quantification","none",NA
+"60425:WL001","HFPODA",9,"double quantification","none",NA
+"60425:WL001","PFBS",9,"double quantification","none",NA
+"60425:WL001","PFHxA",9,"double quantification","none",NA
+"60425:WL001","PFHxS",9,"double quantification","none",NA
+"60425:WL001","PFNA",9,"double quantification","none",NA
+"60425:WL001","PFOA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"60425:WL001","PFOS",9,"double quantification","none",NA
+"605:TP001","HFPODA",10,"double quantification","none",NA
+"605:TP001","PFBS",10,"double quantification","none",NA
+"605:TP001","PFHxA",10,"double quantification","none",NA
+"605:TP001","PFHxS",10,"double quantification","none",NA
+"605:TP001","PFNA",10,"double quantification","none",NA
+"605:TP001","PFOA",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"605:TP001","PFOS",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"6073:TP001","HFPODA",11,"double quantification","none",NA
+"6073:TP001","PFBS",11,"double quantification","none",NA
+"6073:TP001","PFHxA",11,"double quantification","none",NA
+"6073:TP001","PFHxS",11,"double quantification","none",NA
+"6073:TP001","PFNA",11,"double quantification","none",NA
+"6073:TP001","PFOA",11,"double quantification","none",NA
+"6073:TP001","PFOS",11,"double quantification","none",NA
+"6101:TP101","HFPODA",16,"double quantification","none",NA
+"6101:TP101","PFBS",16,"double quantification","none",NA
+"6101:TP101","PFHxA",16,"double quantification","none",NA
+"6101:TP101","PFHxS",16,"double quantification","none",NA
+"6101:TP101","PFNA",16,"double quantification","none",NA
+"6101:TP101","PFOA",16,"NP prediction limit (baseline max), 1-of-2","SSI",10
+"6101:TP101","PFOS",16,"NP prediction limit (baseline max), 1-of-2","none",NA
+"6290:TP001","HFPODA",18,"double quantification","none",NA
+"6290:TP001","PFBS",18,"double quantification","none",NA
+"6290:TP001","PFHxA",18,"double quantification","none",NA
+"6290:TP001","PFHxS",18,"double quantification","none",NA
+"6290:TP001","PFNA",18,"double quantification","none",NA
+"6290:TP001","PFOA",18,"double quantification","none",NA
+"6290:TP001","PFOS",18,"NP prediction limit (baseline max), 1-of-2","none",NA
+"6310:TP001","HFPODA",17,"double quantification","none",NA
+"6310:TP001","PFBS",17,"double quantification","none",NA
+"6310:TP001","PFHxA",17,"double quantification","none",NA
+"6310:TP001","PFHxS",17,"double quantification","none",NA
+"6310:TP001","PFNA",17,"double quantification","none",NA
+"6310:TP001","PFOA",17,"NP prediction limit (baseline max), 1-of-2","none",NA
+"6310:TP001","PFOS",17,"NP prediction limit (baseline max), 1-of-2","none",NA
+"6350:TP001","HFPODA",10,"double quantification","none",NA
+"6350:TP001","PFBS",10,"double quantification","none",NA
+"6350:TP001","PFHxA",10,"double quantification","none",NA
+"6350:TP001","PFHxS",10,"double quantification","none",NA
+"6350:TP001","PFNA",10,"double quantification","none",NA
+"6350:TP001","PFOA",10,"double quantification","none",NA
+"6350:TP001","PFOS",10,"double quantification","none",NA
+"650:TP137","HFPODA",14,"double quantification","none",NA
+"650:TP137","PFBS",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"650:TP137","PFHxA",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"650:TP137","PFHxS",14,"double quantification","none",NA
+"650:TP137","PFNA",14,"double quantification","none",NA
+"650:TP137","PFOA",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"650:TP137","PFOS",14,"NP prediction limit (baseline max), 1-of-2","none",NA
+"6610:TP567","HFPODA",10,"double quantification","none",NA
+"6610:TP567","PFBS",10,"NP prediction limit (baseline max), 1-of-2","none",NA
+"6610:TP567","PFHxA",10,"double quantification","none",NA
+"6610:TP567","PFHxS",10,"double quantification","none",NA
+"6610:TP567","PFNA",10,"double quantification","none",NA
+"6610:TP567","PFOA",10,"double quantification","none",NA
+"6610:TP567","PFOS",10,"double quantification","none",NA
+"6640:TP100","HFPODA",20,"double quantification","none",NA
+"6640:TP100","PFBS",20,"double quantification","none",NA
+"6640:TP100","PFHxA",20,"double quantification","none",NA
+"6640:TP100","PFHxS",20,"double quantification","none",NA
+"6640:TP100","PFNA",20,"double quantification","none",NA
+"6640:TP100","PFOA",20,"NP prediction limit (baseline max), 1-of-2","none",NA
+"6640:TP100","PFOS",20,"double quantification","SSI",11
+"6720:TP001","HFPODA",9,"double quantification","none",NA
+"6720:TP001","PFBS",9,"double quantification","none",NA
+"6720:TP001","PFHxA",9,"double quantification","none",NA
+"6720:TP001","PFHxS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"6720:TP001","PFNA",9,"double quantification","none",NA
+"6720:TP001","PFOA",9,"double quantification","none",NA
+"6720:TP001","PFOS",9,"double quantification","none",NA
+"6880:TP102","HFPODA",9,"double quantification","none",NA
+"6880:TP102","PFBS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"6880:TP102","PFHxA",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"6880:TP102","PFHxS",9,"NP prediction limit (baseline max), 1-of-2","none",NA
+"6880:TP102","PFNA",9,"double quantification","none",NA
+"6880:TP102","PFOA",9,"double quantification","none",NA
+"6880:TP102","PFOS",9,"double quantification","none",NA
+"6910:TP106","HFPODA",16,"double quantification","none",NA
+"6910:TP106","PFBS",16,"NP prediction limit (baseline max), 1-of-2","none",NA
+"6910:TP106","PFHxA",16,"NP prediction limit (baseline max), 1-of-2","none",NA
+"6910:TP106","PFHxS",16,"double quantification","none",NA
+"6910:TP106","PFNA",16,"double quantification","none",NA
+"6910:TP106","PFOA",16,"double quantification","none",NA
+"6910:TP106","PFOS",16,"double quantification","none",NA
+"6910:TP108","HFPODA",18,"double quantification","none",NA
+"6910:TP108","PFBS",18,"double quantification","SSI",9
+"6910:TP108","PFHxA",18,"double quantification","none",NA
+"6910:TP108","PFHxS",18,"NP prediction limit (baseline max), 1-of-2","SSI",9
+"6910:TP108","PFNA",18,"double quantification","none",NA
+"6910:TP108","PFOA",18,"double quantification","none",NA
+"6910:TP108","PFOS",18,"double quantification","none",NA
+"6910:TP109","HFPODA",16,"double quantification","none",NA
+"6910:TP109","PFBS",16,"NP prediction limit (baseline max), 1-of-2","none",NA
+"6910:TP109","PFHxA",16,"NP prediction limit (baseline max), 1-of-2","none",NA
+"6910:TP109","PFHxS",16,"double quantification","none",NA
+"6910:TP109","PFNA",16,"double quantification","none",NA
+"6910:TP109","PFOA",16,"double quantification","none",NA
+"6910:TP109","PFOS",16,"double quantification","none",NA
+"6910:TP112","HFPODA",16,"double quantification","none",NA
+"6910:TP112","PFBS",16,"NP prediction limit (baseline max), 1-of-2","none",NA
+"6910:TP112","PFHxA",16,"double quantification","none",NA
+"6910:TP112","PFHxS",16,"NP prediction limit (baseline max), 1-of-2","none",NA
+"6910:TP112","PFNA",16,"double quantification","none",NA
+"6910:TP112","PFOA",16,"double quantification","none",NA
+"6910:TP112","PFOS",16,"double quantification","none",NA
+"7210:IN001","HFPODA",30,"double quantification","none",NA
+"7210:IN001","PFBS",30,"double quantification","none",NA
+"7210:IN001","PFHxA",30,"double quantification","none",NA
+"7210:IN001","PFHxS",30,"double quantification","none",NA
+"7210:IN001","PFNA",30,"double quantification","none",NA
+"7210:IN001","PFOA",30,"double quantification","none",NA
+"7210:IN001","PFOS",30,"double quantification","none",NA
+"7210:TP100","HFPODA",36,"double quantification","none",NA
+"7210:TP100","PFBS",36,"double quantification","none",NA
+"7210:TP100","PFHxA",36,"double quantification","none",NA
+"7210:TP100","PFHxS",36,"double quantification","none",NA
+"7210:TP100","PFNA",36,"double quantification","none",NA
+"7210:TP100","PFOA",36,"double quantification","none",NA
+"7210:TP100","PFOS",36,"double quantification","none",NA
+"7220:TP100","HFPODA",19,"double quantification","none",NA
+"7220:TP100","PFBS",19,"double quantification","pending",NA
+"7220:TP100","PFHxA",19,"double quantification","none",NA
+"7220:TP100","PFHxS",19,"double quantification","none",NA
+"7220:TP100","PFNA",19,"double quantification","none",NA
+"7220:TP100","PFOA",19,"double quantification","none",NA
+"7220:TP100","PFOS",19,"NP prediction limit (baseline max), 1-of-2","none",NA
+"850:TP001","HFPODA",12,"double quantification","none",NA
+"850:TP001","PFBS",12,"NP prediction limit (baseline max), 1-of-2","none",NA
+"850:TP001","PFHxA",12,"NP prediction limit (baseline max), 1-of-2","none",NA
+"850:TP001","PFHxS",12,"double quantification","none",NA
+"850:TP001","PFNA",12,"double quantification","none",NA
+"850:TP001","PFOA",12,"NP prediction limit (baseline max), 1-of-2","none",NA
+"850:TP001","PFOS",12,"NP prediction limit (baseline max), 1-of-2","none",NA

@@ -1,0 +1,6 @@
+retrieved: 2026-10-28 13:25:27 UTC
+source: https://gisagoegle.state.mi.us/arcgis/rest/services/EGLE/PublicWaterSupplySamplingOpenData/FeatureServer
+rows: 23951
+date_range: 2020-08-18 to 2025-12-24
+md5_results: b9b052c4cb20b88af427bfcc90c25435
+md5_hexbins: 4dfd3fe76914cd276c4af07f5141ff5b

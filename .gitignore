@@ -1,0 +1,5 @@
+data/clean.rds
+.Rhistory
+.RData
+report_files/
+outputs_run.log

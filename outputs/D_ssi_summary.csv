@@ -1,0 +1,43 @@
+"analyte","rule","status","Freq"
+"HFPODA","double quantification","none",190
+"PFBS","double quantification","none",82
+"PFHxA","double quantification","none",108
+"PFHxS","double quantification","none",119
+"PFNA","double quantification","none",174
+"PFOA","double quantification","none",77
+"PFOS","double quantification","none",101
+"HFPODA","NP prediction limit (baseline max), 1-of-2","none",1
+"PFBS","NP prediction limit (baseline max), 1-of-2","none",88
+"PFHxA","NP prediction limit (baseline max), 1-of-2","none",73
+"PFHxS","NP prediction limit (baseline max), 1-of-2","none",62
+"PFNA","NP prediction limit (baseline max), 1-of-2","none",12
+"PFOA","NP prediction limit (baseline max), 1-of-2","none",89
+"PFOS","NP prediction limit (baseline max), 1-of-2","none",66
+"HFPODA","double quantification","pending",0
+"PFBS","double quantification","pending",2
+"PFHxA","double quantification","pending",0
+"PFHxS","double quantification","pending",2
+"PFNA","double quantification","pending",1
+"PFOA","double quantification","pending",2
+"PFOS","double quantification","pending",1
+"HFPODA","NP prediction limit (baseline max), 1-of-2","pending",0
+"PFBS","NP prediction limit (baseline max), 1-of-2","pending",4
+"PFHxA","NP prediction limit (baseline max), 1-of-2","pending",1
+"PFHxS","NP prediction limit (baseline max), 1-of-2","pending",3
+"PFNA","NP prediction limit (baseline max), 1-of-2","pending",1
+"PFOA","NP prediction limit (baseline max), 1-of-2","pending",5
+"PFOS","NP prediction limit (baseline max), 1-of-2","pending",5
+"HFPODA","double quantification","SSI",0
+"PFBS","double quantification","SSI",2
+"PFHxA","double quantification","SSI",0
+"PFHxS","double quantification","SSI",0
+"PFNA","double quantification","SSI",0
+"PFOA","double quantification","SSI",4
+"PFOS","double quantification","SSI",4
+"HFPODA","NP prediction limit (baseline max), 1-of-2","SSI",0
+"PFBS","NP prediction limit (baseline max), 1-of-2","SSI",11
+"PFHxA","NP prediction limit (baseline max), 1-of-2","SSI",8
+"PFHxS","NP prediction limit (baseline max), 1-of-2","SSI",4
+"PFNA","NP prediction limit (baseline max), 1-of-2","SSI",3
+"PFOA","NP prediction limit (baseline max), 1-of-2","SSI",13
+"PFOS","NP prediction limit (baseline max), 1-of-2","SSI",14

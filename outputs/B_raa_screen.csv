@@ -1,0 +1,10 @@
+"standard","analyte","mcl","points","any_result_over","raa_over_nd0","raa_over_ndRL","raa4_over_nd0","raa4_over_ndRL","points_with_full_year","latest_raa4_over_nd0","flips_nd_convention"
+"Michigan","HFPODA",370,5432,0,0,0,0,0,341,0,0
+"Michigan","PFBS",420,5434,0,0,0,0,0,340,0,0
+"Michigan","PFHxA",4e+05,5432,0,0,0,0,0,341,0,0
+"Michigan","PFHxS",51,5433,4,3,3,2,2,341,1,0
+"Michigan","PFNA",6,5433,12,10,10,7,7,341,7,0
+"Michigan","PFOA",8,5432,51,37,37,16,17,341,8,0
+"Michigan","PFOS",16,5433,32,25,25,12,12,341,8,0
+"Federal 2024","PFOA",4,5432,113,98,100,49,51,341,39,2
+"Federal 2024","PFOS",4,5433,96,81,81,48,48,341,38,0
